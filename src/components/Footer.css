@@ -1,0 +1,16 @@
+.footer-content{
+    list-style-type: none;
+    /* margin-top: 15vh; */
+    max-width: 15vw;
+    /* border: 1px solid; */
+    margin-left: 7vw;
+}
+.Contact h6{
+    /* margin-top: 9vh; */
+    padding-bottom: 3vh;
+}
+.Contact span{
+    font-size: small;
+    line-height: 4vh;
+    color: rgba(95, 105, 104, 0.89);
+}

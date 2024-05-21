@@ -1,0 +1,14 @@
+.head-ing{
+    display: flex;
+    margin-top: 10vh;
+    margin-left: 17vw;
+    margin-right: 15vw;
+    width: 65vw;
+}
+
+.protype{
+    width: 65vw;
+    letter-spacing: 3px;
+    text-align: center;
+    font-size: small;
+}

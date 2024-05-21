@@ -1,0 +1,24 @@
+.fea-body{
+    display: flex;
+    flex-direction: column;
+}
+.Feature-card{
+    /* width: 0vw; */
+    height: 47vh;
+}
+.Feature-card img{
+    /* height: 12vh; */
+    width: 15.4vw;
+}
+.info  {
+    margin-top: 2vh;
+    margin-left: 1.74vw;
+}
+.info h4{
+    font-size: medium;
+}
+.info span{
+    color: rgb(86, 86, 88);
+    font-size: small;
+    
+}

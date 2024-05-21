@@ -1,0 +1,26 @@
+.footcard{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    /* height: 26vh; */
+    /* margin-left: 15vw; */
+    /* margin-top: 10vh; */
+}
+.footcard h6{
+    padding-left: 2vw;
+}
+.footcard ul{
+    /* margin:0; */
+    display: flex;
+    margin-top: 3vh;
+    text-align:inherit;
+    flex-direction: column;
+    line-height: 4vh;
+    list-style-type: none;
+    color: rgba(95, 105, 104, 0.89);
+}
+.footcard li{
+    font-size:small;
+    text-align: left;
+
+}

@@ -1,0 +1,156 @@
+.body{
+    background-Image:url('../assets/images/slider.png');
+    background-Repeat:'no-repeat';
+    background-Size:cover;
+    background-position: fixed;
+    height:120vh;
+    max-Width:100vw;
+}
+.content{
+    display: flex;
+    flex-direction: row;
+}
+.summer-collection{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 50%;
+    height: 76vh;
+    margin-top: 22vh;
+    margin-bottom: 22vh;
+}
+h1{
+    font-size: 5.5vw;
+    margin-bottom: 10px;
+}
+.side-bar{
+    width: 50%;
+}
+.btn{
+    border-radius: 35%;
+}
+.summer-collection-para-btn{
+    margin-top: 4vh;
+}
+.custom-rounded-button {
+    border-radius: 20px;
+    margin-top: 3vh;
+    margin-left: -8px;
+}
+.button-imgs{
+    margin-top: 25px;
+    margin-left: -25px;
+    align-items: start;
+}
+.bottom-right{
+    display: flex;
+    flex-direction: row;
+}
+.rightbtmcell{
+    width: 33.3vw;
+    height: 57vh;
+    font-size: xx-large;
+    display: flex;
+    flex-direction: row;
+    background-image: url('../assets/images/Slider-btm-cell-bg.png');
+}
+.rightbtmcell img{
+    height: 57vh;
+    margin-left: -18px;
+}
+.product-text{
+    margin: 9% 2.5% 9% 2.5%;
+    /* height: 20vh; */
+    font-size: large;
+    color: rgb(255, 255, 255);
+}
+.product-text-btn{
+    display: flex;
+    flex-direction: row;
+}
+span{
+    font-size: x-large;
+    padding-top: 2px;
+}
+del{
+    padding-top: 8px;
+}
+pre{
+    margin-top: 4vh;
+}
+.custom-rounded-button-1{
+    border-radius: 20px;
+    margin-left: -8px;
+}
+
+.tymbox{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.tymbox div{
+    
+    margin-top: 4vh;
+    margin-left: 2%;
+    border-radius: 15%;
+    width: 5vw;
+    height: 14vh;
+    background-color: white;
+}
+.hours{
+    padding-top: 3.5%;
+    text-align: center;
+    color: black;
+    font-size: small;
+}
+.hourdiv{
+    font-size: xx-large;
+}
+.minutes{
+    padding-top: 3.5%;
+    text-align: center;
+    color: black;
+    font-size: small;
+}
+.mindiv{
+    font-size: xx-large;
+}
+.seconds{
+    padding-top: 3.5%;
+    text-align: center;
+    color: black;
+    font-size: small;
+}
+.secdiv{
+    font-size: xx-large;
+}
+
+
+
+
+
+
+
+.side-bar-left{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 50px;
+    background-color: rgba(252, 255, 255, 0.605);
+    height: 120vh;
+    padding-top: 40vh;
+}
+.side-bar-left img{
+    padding-right: 50%;
+    /* width: 40px;
+    height: 17px; */
+}
+.xicon{
+    width: 40px;
+    height: 14px;
+}
+.sidebar-text{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-small;
+    writing-mode: vertical-rl;
+    transform: rotate(180deg); 
+}

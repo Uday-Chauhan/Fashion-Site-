@@ -1,0 +1,9 @@
+.Blog-Card{
+    margin-top: 5vh;
+    margin-left: 15vh;
+    margin-right: 15vh;
+}
+.Blog-Card img{
+    width: 31vw;
+    height: 18vh;
+}

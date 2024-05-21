@@ -1,0 +1,20 @@
+.subscribe-newsletter{
+    margin:8vh 15vw 4vh 17vw;
+    background-image: url('../assets/images/Subscribe.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 67vw;
+    height: 30vh;
+}
+.newsletter-content {
+    width: 100vh;
+    text-align: center;
+    letter-spacing: 2px;
+}
+.newsletter-content h2{
+    padding-top: 7vh;
+}
+.newsletter-content Button{
+    width: 150px;
+    height: 40px;
+}

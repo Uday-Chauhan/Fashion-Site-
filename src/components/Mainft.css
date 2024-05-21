@@ -1,0 +1,15 @@
+.fbody{
+    margin-top: 15vh;
+    text-align: center;
+    color: rgba(95, 105, 104, 0.89);
+    font-size: small;
+}
+.ff{
+    padding-top: 5.5vh;
+    color: black;
+    line-height: 3vh;
+    font-size: 1.9vw;
+}
+.ff li{
+    list-style-type: none;
+}

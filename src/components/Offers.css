@@ -1,0 +1,142 @@
+.body1{
+    display: flex;
+    margin-top: 5vh;
+    margin-left: 15vw;
+    margin-right: 15vw;
+    flex-direction: column;
+}
+.bar{
+    display: flex;
+    flex-direction: row ;
+    list-style-type: none;
+    text-align: center;
+    margin-bottom: 4vh;
+    justify-content: space-evenly;
+}
+
+.offers{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    /* border: 2px solid black; */
+    height: 65vh;
+}
+.fstdiv{
+    justify-content: space-between;
+    /* border: 2px solid black; */
+    height: 65vh;
+    width: 16vw;
+}
+.snddiv{
+    justify-content: space-between;
+    /* border: 2px solid black; */
+    height: 65vh;
+    width: 27vw;
+}
+.trddiv{
+    justify-content: space-between;
+    /* border: 2px solid black; */
+    height: 65vh;
+    width: 21vw;
+}
+.offer1 img{
+    height: 39vh;
+    width: 16vw;
+    /* margin-left: 0px; */
+    margin-bottom: 2vh;
+}
+.offer2 img{
+    width: 16vw;
+    height: 22vh;
+}
+.offer3{
+    background-image: url('../assets/images/offiers3img.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 27vw;
+    height:62.7vh
+}
+.heading{
+    padding-top: 16vh;
+    margin-left: 3vw;
+    padding-bottom: 3vh;
+    font-size: medium;
+}
+.text{
+    padding-left: 3vw;
+    font-size: large;
+}
+.bttn{
+    margin-left: 3vw;
+}
+.offer4{
+    background-image: url('../assets/images/offers4img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 21vw;
+    height: 31vh;
+    margin-bottom: 2vh;
+    margin-left: -1.67vw;
+}
+.offer4content{
+    font-family: Arial, Helvetica, sans-serif;
+    /* text-align: center; */
+    /* margin-left: 26vw; */
+}
+.heading2{
+    padding-top: 6vh;
+    margin-left: 3vw;
+    padding-bottom: 0   vh;
+    font-size:small;
+}
+.text2{
+    padding-left: 3vw;
+    font-size: small;
+}
+.bttn2{
+    margin-left: 2.57vw;
+}
+.offer5{
+    background-image: url('../assets/images/offers5img.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 21vw;
+    height: 31vh;
+    margin-left: -1.67vw;
+}
+.off5txt{
+    padding-top: 25vh;
+    text-align: center;
+    font-size: small;
+}
+
+
+.boxplot{
+    background-image: url('../assets/images/offer6img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 1.75vw;
+    width: 65vw;
+    height: 29vh;
+}
+.brandoffer{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-left: 26vw;
+    /* margin-top: 1vh; */
+    height: 29vh;
+}
+.brand-new{
+    padding-top: 5.5vh;
+    font-size: larger;
+    letter-spacing: 2px;
+}
+.signup-get{
+    margin-top: 3vh;
+    font-size: smaller;
+    letter-spacing: 2px;
+
+}
+.custom-rounded-button{
+    font-size: small;
+}
